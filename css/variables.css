@@ -1,0 +1,36 @@
+:root{
+
+    /* Colors */
+    --white: #FFFFFF;
+    --black: #1B1B1B;
+
+    --pink: #F7D6E8;
+    --pink-accent: #FF5C9A;
+
+    --silver: #C9C9C9;
+    --gray: #F5F5F5;
+
+    /* Typography */
+    --font-display: "Bebas Neue", sans-serif;
+    --font-body: "Poppins", sans-serif;
+    --font-editorial: "Playfair Display", serif;
+
+    /* Spacing */
+    --space-xs: .5rem;
+    --space-sm: 1rem;
+    --space-md: 2rem;
+    --space-lg: 4rem;
+    --space-xl: 6rem;
+
+    /* Radius */
+    --radius-pill: 999px;
+
+    /* Transition */
+    --transition: .35s ease;
+
+    /* Z-index */
+    --z-photo: 1;
+    --z-overlay: 2;
+    --z-content: 10;
+
+}
